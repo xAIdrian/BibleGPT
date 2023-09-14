@@ -1,0 +1,8 @@
+tiktoken
+unstructured
+langchain
+chromadb
+openai
+pinecone-client
+streamlit
+spacy
